@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<body>
+<head>
+<style>
+table, th, td {
+  border:1px solid black;
+}
+
+h2 {text-align: center;}
+p{text-align: center;}
+</head>
+</style>
+
+
+<h2>INVITATION TO WEDDING</H2>
+
+<p>05-OCT-2026   3:00 PM </p>
+
+<img src="wedding.jpg" alt="invitation card">
+
+
+<table style="width:100%">
+  <tr>
+    <th>SCHEDULE</th>
+    <th>TIMING</th>
+
+  </tr>
+  <tr>
+    <td>Start</td>
+    <td>3:15 pm</td>
+  </tr>
+
+  <tr>
+    <td>speech</td>
+    <td>3:45</td>
+  </tr>
+
+  <tr>
+    <td>   toast</td>
+    <td>4:00 pm</td>
+  </tr>
+
+
+  <tr>
+    <td>dinner</td>
+    <td>4:10 pm</td>
+  </tr>
+
+</table>
+
+
+</body>
+</html>
